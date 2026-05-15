@@ -1,0 +1,12 @@
+AI Model: Personal Plan Test
+Token Price (per 100K): NPR 150.0
+Parameters (Billion): 175
+Max Context: 128000 tokens
+Monthly Prompts Remaining: 499
+------------------------------------
+AI Model: Pro Plan Test
+Token Price (per 100K): NPR 250.0
+Parameters (Billion): 200
+Max Context: 200000 tokens
+Team Slots Available: 9
+------------------------------------
